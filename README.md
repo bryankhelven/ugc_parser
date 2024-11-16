@@ -122,5 +122,10 @@ If you encounter any issues or have questions, please open an issue in this repo
 For further details, please visit **Porttinari 2.0** website at:
 - [https://sites.google.com/icmc.usp.br/poetisa/porttinari-2-0](https://sites.google.com/icmc.usp.br/poetisa/porttinari-2-0)
 
-Please cite appropriately if you use this corpus in your research.
+---
+
+## How to cite
+
+Di Felippo, Nunes, M.G.V.; Barbosa, B.K.S. (2024). A Dependency Treebank of Tweets in Brazilian Portuguese: Syntactic Annotation Issues and Approach. In the Proceedings of the 15th Symposium in Information and Human Language Technology (STIL). November, 17-21. To appear.
+
 
