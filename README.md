@@ -119,10 +119,8 @@ If you encounter any issues or have questions, please open an issue in this repo
 
 - This work relies on the **DANTEStocks corpus V2** and the **Porttinari-base**, both annotated within the Universal Dependencies (UD) framework.
 
-  - For further details, please visit:
+For further details, please visit **Porttinari 2.0** website at:
+- [https://sites.google.com/icmc.usp.br/poetisa/porttinari-2-0](https://sites.google.com/icmc.usp.br/poetisa/porttinari-2-0)
 
-  - **Porttinari 2.0**
-   - Repository: [https://sites.google.com/icmc.usp.br/poetisa/porttinari-2-0](https://sites.google.com/icmc.usp.br/poetisa/porttinari-2-0)
-
-   Please cite appropriately if you use this corpus in your research.
+Please cite appropriately if you use this corpus in your research.
 
