@@ -126,6 +126,8 @@ For further details, please visit **Porttinari 2.0** website at:
 
 ## How to cite
 
-Di Felippo, Nunes, M.G.V.; Barbosa, B.K.S. (2024). A Dependency Treebank of Tweets in Brazilian Portuguese: Syntactic Annotation Issues and Approach. In the Proceedings of the 15th Symposium in Information and Human Language Technology (STIL). November, 17-21. To appear.
+Barbosa, B.K.S. (2024). Descrição sintático-semântica de nomes predicadores em tweets do mercado financeiro em português. MSc Dissertation. Universidade Federal de São Carlos, São Carlos/SP, 208p.
+
+Di Felippo, Nunes, M.G.V.; Barbosa, B.K.S. (2024). A Dependency Treebank of Tweets in Brazilian Portuguese: Syntactic Annotation Issues and Approach. In the Proceedings of the 15th Symposium in Information and Human Language Technology (STIL). November, 17-21. p. 192-201. DOI: https://doi.org/10.5753/stil.2024.245383.
 
 
